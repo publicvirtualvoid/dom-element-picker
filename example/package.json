@@ -1,0 +1,17 @@
+{
+  "name": "pick-dom-element-example",
+  "description": "",
+  "version": "1.0.0",
+  "main": "example.js",
+  "scripts": {
+    "start": "vite --open"
+  },
+  "author": "Harry Marr",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.9.13"
+  },
+  "dependencies": {
+    "pick-dom-element": "file:.."
+  }
+}
