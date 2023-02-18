@@ -6,8 +6,6 @@
   "scripts": {
     "start": "vite --open"
   },
-  "author": "Harry Marr",
-  "license": "MIT",
   "devDependencies": {
     "vite": "^2.9.13"
   },

@@ -4,8 +4,8 @@
   "description": "Interactively pick elements in the DOM",
   "author": "Harry Marr",
   "license": "MIT",
-  "homepage": "https://github.com/hmarr/pick-dom-element",
-  "repository": "github:hmarr/pick-dom-element",
+  "homepage": "https://github.com/RiadHossain43/dom-element-picker",
+  "repository": "github:RiadHossain43/dom-element-picker",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
