@@ -5,7 +5,10 @@
   "author": "Harry Marr",
   "license": "MIT",
   "homepage": "https://github.com/RiadHossain43/dom-element-picker",
-  "repository": "github:RiadHossain43/dom-element-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiadHossain43/dom-element-picker.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -18,5 +21,11 @@
   },
   "devDependencies": {
     "typescript": "^4.7.4"
+  },
+  "bugs": {
+    "url": "https://github.com/RiadHossain43/dom-element-picker/issues"
+  },
+  "directories": {
+    "example": "example"
   }
 }
