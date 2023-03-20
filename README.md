@@ -5,7 +5,7 @@
 Create an instance of the `ElementPicker` class, and call its `start()` method to start picking. Provide an `onHover` or `onClick` callback to get the picked element(s). Call `stop()` to stop picking and remove the overlay from the DOM.
 
 ```javascript
-import { ElementPicker } from "pick-dom-element";
+import { ElementPicker } from "@riadhossain43/dom-element-picker";
 
 const style = { borderColor: "#0000ff" };
 const picker = new ElementPicker({ style });
